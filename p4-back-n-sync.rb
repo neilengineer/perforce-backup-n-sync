@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-#by Neil Zhao(neil.zhao@qualcomm.com)
+#by Neil Zhao(neilchiao@gmail.com)
 
 time=`date +%y-%m-%d-%T`.strip
 log="/tmp/sync.log.#{time}"
